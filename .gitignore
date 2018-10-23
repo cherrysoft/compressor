@@ -13,3 +13,7 @@ yarn-error.log
 .env
 .phpunit.result.cache
 build.sh
+docker-compose.yml
+app.dockerfile
+web.dockerfile
+vhost.conf
